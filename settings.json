@@ -1,5 +1,5 @@
 {
-  "name": "AFK Bot",
+  "name": "24/7 Bot",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
@@ -7,14 +7,14 @@
   },
   "server": {
     "ip": "Rimuruisme.aternos.me",
-    "port": 39169,
+    "port": "39169",
     "version": "",
     "try-creative": false
   },
   "position": {
     "enabled": true,
     "x": 0,
-    "y": 100,
+    "y": 500,
     "z": 0
   },
   "utils": {
